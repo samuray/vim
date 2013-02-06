@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/mishudark/kmkz/bnmx/drupal/sites/all/modules/bnmx_privilegios'
+let g:netrw_dirhist_2='/home/mishudark/trabajo/cucu/cake/app/Vendor/facebook-php-sdk'
+let g:netrw_dirhist_3='/home/mishudark/trabajo/cucu/cake/app/Vendor/facebook-php-sdk/src'
+let g:netrw_dirhist_4='/Users/mishudark/cajas/rc1/cucu/cake/app'
+let g:netrw_dirhist_5='/Users/mishudark/cajas/rc1/cucu/cake/app/Config'
+let g:netrw_dirhist_6='/Users/mishudark/cajas/rc1/cucu/cake/app/webroot'
+let g:netrw_dirhist_7='/Users/mishudark/cajas/build/vagrant-ubuntu-precise-64/build'
+let g:netrw_dirhist_8='/Users/mishudark/cajas/.vim'
